@@ -1,0 +1,45 @@
+
+{
+	"free":
+		{
+			"price": 0,
+            "features": [
+                { "detail": "Single User", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "5GB Storage", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Unlimited Public Projects", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Community Access", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Unlimited Private Projects", "active": false, "bold": false, "additional_detail":""},
+                { "detail": "Dedicated Phone Support", "active": false, "bold": false, "additional_detail":""},
+                { "detail": "Free Subdomain", "active": false, "bold": false, "additional_detail":""},
+                { "detail": "Monthly Status Reports", "active": false, "bold": false, "additional_detail":""}
+            ]
+		},
+        "plus":
+		{
+			"price": 9,
+            "features": [
+                { "detail": "5 Users", "active": true, "bold": true, "additional_detail":""},
+                { "detail": "50GB Storage", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Unlimited Public Projects", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Community Access", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Unlimited Private Projects", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Dedicated Phone Support", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Free Subdomain", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Monthly Status Reports", "active": false, "bold": false, "additional_detail":""}
+            ]
+		},
+        "pro":
+		{
+			"price": 49,
+            "features": [
+                { "detail": "Unlimited Users", "active": true, "bold": true, "additional_detail":""},
+                { "detail": "150GB Storage", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Unlimited Public Projects", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Community Access", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Unlimited Private Projects", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Dedicated Phone Support", "active": true, "bold": false, "additional_detail":""},
+                { "detail": "Unlimited ", "active": true, "bold": true, "additional_detail":" Free Subdomains"},
+                { "detail": "Monthly Status Reports", "active": true, "bold": false, "additional_detail":""}
+            ]
+		}
+}
